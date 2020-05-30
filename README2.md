@@ -1,6 +1,6 @@
 <h1> Açıklama </h1>
 <p>
-<strong>Emu8086</strong> kullanılarak 8086 mimarisinde Türkçe ve İngilizce için sayıdan yazı <br> ve yazıdan sayı dönüşümü yapabilen, ayrıca yazı olarak verilmiş iki sayı üzerinde<br> toplama, ve çıkarma işlemlerinin yapılabildiği bir  Linux betiği gerçeklenecektir. 
+<strong>Emu8086</strong> kullanılarak 8086 mimarisinde Türkçe ve İngilizce için sayıdan yazı <br> ve yazıdan sayı dönüşümü yapabilen, ayrıca yazı olarak verilmiş iki sayı üzerinde<br> toplama, ve çıkarma işlemlerinin yapılabildiği bir program assembly dilinde gerçeklenmektedir. 
 </p>
 <p> <h2 style="display: inline-block;">1 - Şekil1:</h2> Dil seçeneği sorgusu </p>
 <img src="images1/s1.png" alt="Dil seçeneği sorgusu" title="Dil seçeneği sorgusu">
